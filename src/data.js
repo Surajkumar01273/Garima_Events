@@ -3,7 +3,7 @@ export const homefirstSection = [
     id: '1',
     title: "Kid's Birthday",
     image: {
-      src: 'public/home-image/first-card1.jpg',
+      src: '/home-image/first-card1.jpg',
       alt: 'Home First Section Image-1',
     },
   },
@@ -11,7 +11,7 @@ export const homefirstSection = [
     id: '2',
     title: 'BirthDay Decoration',
     image: {
-      src: 'public/home-image/first-card2.jpg',
+      src: '/home-image/first-card2.jpg',
       alt: 'Home First Section Image-2',
     },
   },
@@ -19,7 +19,7 @@ export const homefirstSection = [
     id: '3',
     title: 'Baby Shower Decoration',
     image: {
-      src: 'public/home-image/first-card3.jpg',
+      src: '/home-image/first-card3.jpg',
       alt: 'Home First Section Image-3',
     },
   },
@@ -27,7 +27,7 @@ export const homefirstSection = [
     id: '4',
     title: 'All Party Decoration',
     image: {
-      src: 'public/home-image/first-card4.jpg',
+      src: '/home-image/first-card4.jpg',
       alt: 'Home First Section Image-4',
     },
   },
@@ -35,7 +35,7 @@ export const homefirstSection = [
     id: '5',
     title: 'Aniversary Decoration',
     image: {
-      src: 'public/home-image/first-card5.jpg',
+      src: '/home-image/first-card5.jpg',
       alt: 'Home First Section Image-5',
     },
   },
@@ -45,54 +45,34 @@ export const homeHeroSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/hero1.jpg',
+      src: '/home-image/hero1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/hero2.jpg',
+      src: '/home-image/hero2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/hero3.jpg',
+      src: '/home-image/hero3.jpg',
       alt: 'Hero Image 3',
     },
   },
   {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/hero4.jpg',
+      src: '/home-image/hero4.jpg',
       alt: 'Hero Image 4',
     },
   },
 ];
 
-export const heroSections = [
-  {
-    id: 'hero',
-    heading: 'We Provide Innovative Strategies to Elevate your Online Presence',
-    subheading:
-      'At Webralecon, our skilled team crafts impactful digital solutions using cutting-edge technologies',
-    button: {
-      text: 'Schedule A Meeting',
-      link: 'contact.php',
-      iconClass: 'bi bi-arrow-right',
-    },
-    image: {
-      src: 'https://webralecon.com/assets/img/hero-img.png',
-      alt: '',
-      animation: {
-        type: 'zoom-out',
-        delay: 200,
-      },
-    },
-  },
-];
+
 
 export const homeSecondSection = [
   {
