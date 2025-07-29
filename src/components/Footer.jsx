@@ -6,13 +6,13 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <>
-      <footer className='bg-[url(/public/footer_img/footer-bg.png)] bg-cover bg-center bg-black text-white pt-35 pb-16 md:pb-12 px-6'>
+      <footer className='bg-[url(/footer_img/footer-bg.png)] bg-cover bg-center bg-black text-white pt-35 pb-16 md:pb-12 px-6'>
         <div className='mx-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10'>
           {/* Left: Logo and Info */}
           <div className=''>
             <div className='flex items-center mb-6'>
               <img
-                src='public/footer_img/footer_img.png'
+                src='footer_img/footer_img.png'
                 alt='Profile'
                 className=''
               />
@@ -101,22 +101,22 @@ const Footer = () => {
             <h3 className='text-2xl font-semibold mb-4 text-zinc-100'>Our Gallery</h3>
             <div className='grid grid-cols-2 gap-x-10 gap-y-2'>
               <img
-                src='public/footer_img/footer-left1.jpg'
+                src='/footer_img/footer-left1.jpg'
                 alt='Gallery 1'
                 className='w-full h-30 object-cover'
               />
               <img
-                src='public/footer_img/footer-left2.jpg'
+                src='/footer_img/footer-left2.jpg'
                 alt='Gallery 2'
                 className='w-full h-30 object-cover'
               />
               <img
-                src='public/footer_img/footer-left3.jpg'
+                src='/footer_img/footer-left3.jpg'
                 alt='Gallery 3'
                 className='w-full h-30 object-cover'
               />
               <img
-                src='public/footer_img/footer-left4.jpg'
+                src='/footer_img/footer-left4.jpg'
                 alt='Gallery 4'
                 className='w-full h-30 object-cover'
               />

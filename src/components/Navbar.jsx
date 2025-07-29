@@ -39,7 +39,7 @@ const Navbar = () => {
               <Link to='/'>
               <div className='lg:ml-[200px]'>
                 <img
-                  src='public/nav/nav-img.png'
+                  src='/nav/nav-img.png'
                   alt='nav-img'
                   className='h-[40px] w-[150px] md:h-[50px] md:w-[200px] cursor-pointer'
                 />
