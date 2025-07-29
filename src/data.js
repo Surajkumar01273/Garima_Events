@@ -78,28 +78,28 @@ export const homeSecondSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/second-section-card1.webp',
+      src: '/home-image/second-section-card1.webp',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/second-section-card2.webp',
+      src: '/home-image/second-section-card2.webp',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/second-section-card3.webp',
+      src: '/home-image/second-section-card3.webp',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/second-section-card4.webp',
+      src: '/home-image/second-section-card4.webp',
       alt: 'Hero Image 3',
     },
   },
@@ -110,7 +110,7 @@ export const republicDaySection = [
     id: 'hero-1',
     title: 'Republic Day',
     image: {
-      src: 'public/home-image/republic1.jpg',
+      src: '/home-image/republic1.jpg',
       alt: 'Hero Image 1',
     },
   },
@@ -118,7 +118,7 @@ export const republicDaySection = [
     id: 'hero-2',
     title: 'Republic Day',
     image: {
-      src: 'public/home-image/republic2.jpg',
+      src: '/home-image/republic2.jpg',
       alt: 'Hero Image 2',
     },
   },
@@ -126,7 +126,7 @@ export const republicDaySection = [
     id: 'hero-3',
     title: 'Republic Day',
     image: {
-      src: 'public/home-image/republic3.jpg',
+      src: '/home-image/republic3.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -134,7 +134,7 @@ export const republicDaySection = [
     id: 'hero-3',
     title: 'Republic Day',
     image: {
-      src: 'public/home-image/republic4.jpg',
+      src: '/home-image/republic4.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -146,35 +146,35 @@ export const adultBarthdaysection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/adult1.jpg',
+      src: '/home-image/adult1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/adult2.jpg',
+      src: '/home-image/adult2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/adult3.jpg',
+      src: '/home-image/adult3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/adult4.jpg',
+      src: '/home-image/adult4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/adult5.jpg',
+      src: '/home-image/adult5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -184,35 +184,35 @@ export const anniversarySection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/anniversary1.jpg',
+      src: '/home-image/anniversary1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/anniversary2.jpg',
+      src: '/home-image/anniversary2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/anniversary3.jpg',
+      src: '/home-image/anniversary3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/anniversary4.jpg',
+      src: '/home-image/anniversary4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/anniversary5.jpg',
+      src: '/home-image/anniversary5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -222,35 +222,35 @@ export const babbyShowerSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/babby1.jpg',
+      src: '/home-image/babby1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/babby2.jpg',
+      src: '/home-image/babby2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/babby3.jpg',
+      src: '/home-image/babby3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/babby4.jpg',
+      src: '/home-image/babby4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/babby5.jpg',
+      src: '/home-image/babby5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -265,35 +265,35 @@ export const kidsBarthdaySection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/kids1.jpg',
+      src: '/home-image/kids1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/kids2.jpg',
+      src: '/home-image/kids2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/kids3.jpg',
+      src: '/home-image/kids3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/kids4.jpg',
+      src: '/home-image/kids4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/kids5.jpg',
+      src: '/home-image/kids5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -303,35 +303,35 @@ export const banquetHallsSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/banquet1.jpg',
+      src: '/home-image/banquet1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/banquet2.jpg',
+      src: '/home-image/banquet2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/banquet3.jpg',
+      src: '/home-image/banquet3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/banquet4.jpg',
+      src: '/home-image/banquet4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/banquet5.jpg',
+      src: '/home-image/banquet5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -341,35 +341,35 @@ export const justMarriedSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/married1.jpg',
+      src: '/home-image/married1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/married2.jpg',
+      src: '/home-image/married2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/married3.jpg',
+      src: '/home-image/married3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/married4.jpg',
+      src: '/home-image/married4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/married5.jpg',
+      src: '/home-image/married5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -379,35 +379,35 @@ export const roomDecorationSection = [
   {
     id: 'hero-1',
     image: {
-      src: 'public/home-image/room1.jpg',
+      src: '/home-image/room1.jpg',
       alt: 'Hero Image 1',
     },
   },
   {
     id: 'hero-2',
     image: {
-      src: 'public/home-image/room2.jpg',
+      src: '/home-image/room2.jpg',
       alt: 'Hero Image 2',
     },
   },
   {
     id: 'hero-3',
     image: {
-      src: 'public/home-image/room3.jpg',
+      src: '/home-image/room3.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-4',
     image: {
-      src: 'public/home-image/room4.jpg',
+      src: '/home-image/room4.jpg',
       alt: 'Hero Image 3',
     },
   },
    {
     id: 'hero-5',
     image: {
-      src: 'public/home-image/room5.jpg',
+      src: '/home-image/room5.jpg',
       alt: 'Hero Image 3',
     },
   },
@@ -417,17 +417,17 @@ export const reviews = [
   {
     name: 'Rohit Yadav',
     text: `We saw The Garima Events wonderful work at a wedding in February, the balloons looked absolutely fabulous. We decided there and then would would like balloons for our wedding in July.`,
-    image: 'public/home-image/review-pic1.jpg',
+    image: '/home-image/review-pic1.jpg',
   },
   {
     name: 'Kapil Shrama',
     text: `I had a great experience with the Balloon Event Company. Yaz was able to capture the idea I had in mind and translate it into a beautiful balloon decor! I will use her services again so I can definitely recommend her for your events`,
-    image: 'public/home-image/banquet5.jpg',
+    image: '/home-image/banquet5.jpg',
   },
    {
     name: 'Sweta Singh',
     text: `I was so impressed with the balloons and very happy with the value for money. The service and communication throughout was much appreciated.`,
-    image: 'public/home-image/review-pic1.jpg',
+    image: '/home-image/review-pic1.jpg',
   },
 ];
 
@@ -523,20 +523,6 @@ export const faqData = [
   }
 ];
 
-//  export const links = [
-//     { icon: <FaFacebookF />, 
-//       label: "Facebook" },
-//     { icon: <FaLinkedinIn />, 
-//       label: "Linkdin" },
-//     { icon: <FaTwitter />, 
-//       label: "Twitter" },
-//     { icon: <FaInstagram />, 
-//       label: "Instagram" },
-//     { icon: <FaYoutube />, 
-//       label: "Youtube" },
-//     { icon: <FaPinterestP />, 
-//       label: "Pinterest" },
-//   ];
 
 
 
@@ -552,7 +538,7 @@ export const eventSections = [
     description:
       'Balloon artists can create intricate sculptures using balloons, such as animals, characters, or themed designs. Balloons can be used as centerpieces for tables, adding a festive touch to dining areas or other gathering spots. Hanging balloons from the ceiling can transform the ambiance of the room and create a visually appealing effect. Balloon artists can create intricate sculptures using balloons, such as animals, characters, or themed designs',
     quote: '“Celebrate with a pop of joy, inflate your life with balloons!”',
-    image: 'public/about-image/aboutevent1.jpg',
+    image: '/about-image/aboutevent1.jpg',
   },
 ];
 
@@ -609,84 +595,84 @@ export const ourGalleryData = [
   {
     id: 'gallery-1',
     image: {
-      src: 'public/ourgallery/ourgallery1.jpg',
+      src: '/ourgallery/ourgallery1.jpg',
       alt: 'Gallery Image 1',
     },
    },
   {
     id: 'gallery-2',
     image: {
-      src: 'public/ourgallery/ourgallery2.jpg',
+      src: '/ourgallery/ourgallery2.jpg',
       alt: 'Gallery Image 2',
     },
   },
   { 
     id: 'gallery-3',
     image: {
-      src: 'public/ourgallery/ourgallery3.jpg',
+      src: '/ourgallery/ourgallery3.jpg',
       alt: 'Gallery Image 3',
     },
   },
   {
     id: 'gallery-4',
     image: {
-      src: 'public/ourgallery/ourgallery4.jpg',
+      src: '/ourgallery/ourgallery4.jpg',
       alt: 'Gallery Image 4',
     },
   },
   {
     id: 'gallery-5',
     image: {
-      src: 'public/ourgallery/ourgallery5.jpg',
+      src: '/ourgallery/ourgallery5.jpg',
       alt: 'Gallery Image 5',
     },
   },
   {
     id: 'gallery-6',
     image: {
-      src: 'public/ourgallery/ourgallery6.jpg',
+      src: '/ourgallery/ourgallery6.jpg',
       alt: 'Gallery Image 6',
     },
   },
   {
     id: 'gallery-7',
     image: {
-      src: 'public/ourgallery/ourgallery7.jpg',
+      src: '/ourgallery/ourgallery7.jpg',
       alt: 'Gallery Image 7',
     },
   },
   {
     id: 'gallery-8',
     image: {
-      src: 'public/ourgallery/ourgallery8.jpg',
+      src: '/ourgallery/ourgallery8.jpg',
       alt: 'Gallery Image 8',
     },
   },
   {
     id: 'gallery-9',
     image: {
-      src: 'public/ourgallery/ourgallery9.jpg',
+      src: '/ourgallery/ourgallery9.jpg',
       alt: 'Gallery Image 9',
     },
   },
   {
     id: 'gallery-10',
     image: {
-      src: 'public/ourgallery/ourgallery10.jpg',
+      src: '/ourgallery/ourgallery10.jpg',
       alt: 'Gallery Image 10',
     },
   },
   {
     id: 'gallery-11',
     image: {
-      src: 'public/ourgallery/ourgallery11.jpg',
+      src: '/ourgallery/ourgallery11.jpg',
       alt: 'Gallery Image 11',
     },
   },
   {
     id: 'gallery-12',
     image: {
-      src: 'public/ourgallery/ourgallery12.jpg',
+      src: '/ourgallery/ourgallery12.jpg',
       alt: 'Gallery Image 12',
     },
   }
