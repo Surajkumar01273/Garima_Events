@@ -11,7 +11,7 @@ function About() {
           <div
             className='w-full h-[265px] bg-cover bg-center bg-no-repeat relative flex items-center justify-center'
             style={{
-              backgroundImage: "url('public/ourgallery/ourgalleryhero.jpg')",
+              backgroundImage: "url('/ourgallery/ourgalleryhero.jpg')",
             }}
           >
             <div className='relative z-10 text-center text-white'>

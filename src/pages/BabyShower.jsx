@@ -56,7 +56,7 @@ const BabyShower = () => {
       {/* Banner */}
       <div
         className='w-full h-[265px] bg-cover bg-center bg-no-repeat relative flex items-center justify-center'
-        style={{ backgroundImage: "url('public/adult/adult1.jpg')" }}
+        style={{ backgroundImage: "url('/adult/adult1.jpg')" }}
       >
         <div className='relative z-10 text-center text-white'>
           <h1 className='text-4xl md:text-5xl font-bold mb-6'>

@@ -32,7 +32,7 @@ function Contact() {
           <div
             className='w-full h-[265px] bg-cover bg-center bg-no-repeat relative flex items-center justify-center'
             style={{
-              backgroundImage: "url('public/ourgallery/ourgalleryhero.jpg')",
+              backgroundImage: "url('/ourgallery/ourgalleryhero.jpg')",
             }}
           >
             <div className='relative z-10 text-center text-white'>
@@ -54,7 +54,7 @@ function Contact() {
             {/* Left Side: Image and Contact Box */}
             <div className='md:relative px-2'>
               <img
-                src='public/contact-image/contact1.jpg' // 👈 your image here
+                src='/contact-image/contact1.jpg' 
                 alt='Contact background'
                 className='w-full md:w-[500px] md:h-[500px] lg:w-full h-full hidden md:block object-cover rounded-md'
               />
@@ -63,7 +63,7 @@ function Contact() {
                 className='md:absolute md:top-12 md:left-60 lg:left-80 bg-black bg-opacity-90 text-white p-4 lg:p-10 h-[400px] md:w-[60%]'
                 style={{
                   backgroundImage:
-                    "url('public/contact-image/contact-bg-img.jpg')",
+                    "url('/contact-image/contact-bg-img.jpg')",
                 }}
               >
                 <h2 className='text-2xl font-bold mb-6'>Contact Details</h2>

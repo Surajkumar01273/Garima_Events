@@ -56,7 +56,7 @@ const KidsBirthday = () => {
       {/* Banner */}
       <div
         className='w-full h-[265px] bg-cover bg-center bg-no-repeat relative flex items-center justify-center'
-        style={{ backgroundImage: "url('public/adult/adult1.jpg')" }}
+        style={{ backgroundImage: "url('/adult/adult1.jpg')" }}
       >
         <div className='relative z-10 text-center text-white'>
           <h1 className='text-4xl md:text-5xl font-bold mb-6'>
@@ -153,14 +153,14 @@ const KidsBirthday = () => {
           <div className='flex flex-wrap md:flex-nowrap justify-center lg:justify-end gap-6 pt-10'>
             <div className='max-w-[500px] w-full'>
               <img
-                src='public/home-image/kids4.jpg'
+                src='/home-image/kids4.jpg'
                 alt=''
                 className='w-full h-auto object-cover rounded-md'
               />
             </div>
             <div className='max-w-[500px] w-full'>
               <img
-                src='public/home-image/kids1.jpg'
+                src='/home-image/kids1.jpg'
                 alt=''
                 className='w-full h-auto object-cover rounded-md'
               />
