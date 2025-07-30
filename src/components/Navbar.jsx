@@ -4,7 +4,7 @@ import { MdOutlineMail, MdOutlineArrowRightAlt } from 'react-icons/md';
 import { FaFacebookF } from 'react-icons/fa';
 import { IoLogoTwitter, IoLogoYoutube } from 'react-icons/io5';
 import { Link, useLocation } from 'react-router-dom';
-import SecondNavbar from './SeconNavbar';
+import SecondNavbar from './SecondNavbar';
 
 const Navbar = () => {
   const location = useLocation();
